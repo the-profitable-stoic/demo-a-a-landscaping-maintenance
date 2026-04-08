@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "A & A Landscaping & Maintenance",
+    "phone": "+12083536052",
+    "category": "landscaping company",
+    "city": "Boise",
+    "state": "ID"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Boise's Trusted Landscaping Pros",
+      "heroSubline": "A & A Landscaping delivers exceptional service and lasting results. We transform your outdoor space into a beautiful and functional extension of your home.",
+      "aboutTitle": "Your Local Landscaping Experts",
+      "aboutText": [
+        "A & A Landscaping & Maintenance started with a simple goal: to provide Boise homeowners with reliable, high-quality landscaping services. We saw a need for a company that understood the unique challenges of the Boise climate and could create landscapes that thrive in our environment.",
+        "Our approach is rooted in collaboration and communication. We work closely with each client to understand their vision and bring it to life. We value honesty, integrity, and a commitment to exceeding expectations.",
+        "We're proud to be a part of the Boise community. We actively support local initiatives and believe in giving back to the neighborhoods we serve. When you choose A & A Landscaping, you're supporting a local business that cares."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Boise's climate, soil, and plant life."
+        },
+        {
+          "title": "Custom Designs",
+          "description": "Landscaping solutions tailored to your specific needs and preferences."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "On-time, professional service you can count on."
+        },
+        {
+          "title": "Satisfaction Guaranteed",
+          "description": "We're not happy until you're completely satisfied with our work."
+        }
+      ],
+      "ctaHeadline": "Transform Your Outdoor Space",
+      "ctaSubline": "Get a free quote for your landscaping project today!"
+    },
+    "services": [
+      {
+        "slug": "lawn-care",
+        "name": "Lawn Care",
+        "shortDescription": "Maintain a lush, healthy lawn with our comprehensive lawn care services.",
+        "description": "A & A Landscaping offers a full range of lawn care services to keep your Boise lawn looking its best. From regular mowing and edging to fertilization and weed control, we have you covered. We understand the challenges of Boise's hot summers and cold winters, and we tailor our services to ensure your lawn thrives year-round.\n\nOur lawn care program includes: Mowing, Edging, Fertilization, Weed Control, Aeration, Overseeding, Dethatching. We use high-quality products and equipment to deliver superior results. Our team is experienced in identifying and addressing common lawn problems in Boise, such as grub infestations, fungal diseases, and drought stress.\n\nWe offer flexible scheduling options to fit your needs. Whether you need weekly, bi-weekly, or monthly service, we can create a customized plan that works for you. Let A & A Landscaping take the hassle out of lawn care so you can enjoy a beautiful, healthy lawn.",
+        "process": [
+          "Step 1: Initial consultation to assess your lawn's needs.",
+          "Step 2: Customized lawn care plan developed.",
+          "Step 3: Regular maintenance services performed.",
+          "Step 4: Ongoing monitoring and adjustments as needed."
+        ],
+        "benefits": [
+          "Healthy, vibrant lawn",
+          "Reduced weed growth",
+          "Improved curb appeal",
+          "More free time for you"
+        ],
+        "faq": [
+          {
+            "question": "How often should I fertilize my lawn in Boise?",
+            "answer": "We recommend fertilizing your lawn at least twice a year, in the spring and fall. This helps to provide the nutrients your lawn needs to thrive in Boise's climate."
+          },
+          {
+            "question": "What types of weeds do you treat?",
+            "answer": "We treat a wide variety of common Boise weeds, including dandelions, crabgrass, and clover. Our weed control program is designed to eliminate existing weeds and prevent new ones from emerging."
+          },
+          {
+            "question": "Do you offer organic lawn care options?",
+            "answer": "Yes, we offer organic lawn care options for clients who prefer a more natural approach. These options utilize organic fertilizers and weed control methods."
+          }
+        ]
+      },
+      {
+        "slug": "landscape-design",
+        "name": "Landscape Design",
+        "shortDescription": "Transform your outdoor space with our expert landscape design services.",
+        "description": "Dreaming of a beautiful and functional outdoor space? A & A Landscaping can help you turn your vision into reality with our expert landscape design services. We work with you to create a custom design that reflects your style, meets your needs, and thrives in Boise's climate.\n\nOur landscape design process includes: Initial consultation, Site analysis, Design development, Plant selection, Installation. We take into account factors such as sun exposure, soil conditions, and water availability to ensure your landscape is both beautiful and sustainable. We specialize in creating landscapes that are drought-tolerant and low-maintenance, perfect for Boise's dry summers.\n\nWhether you're looking to create a relaxing backyard retreat, a vibrant front yard oasis, or a functional outdoor living space, A & A Landscaping can help. Contact us today to schedule a consultation and start planning your dream landscape.",
+        "process": [
+          "Step 1: Initial consultation to discuss your vision and needs.",
+          "Step 2: Site analysis and assessment of existing conditions.",
+          "Step 3: Design development and presentation of proposed plans.",
+          "Step 4: Installation and project management."
+        ],
+        "benefits": [
+          "Increased property value",
+          "Enhanced curb appeal",
+          "Functional outdoor living space",
+          "Sustainable landscape design"
+        ],
+        "faq": [
+          {
+            "question": "How much does landscape design cost?",
+            "answer": "The cost of landscape design varies depending on the scope and complexity of the project. We offer free consultations and can provide you with a detailed estimate based on your specific needs."
+          },
+          {
+            "question": "What types of plants do you recommend for Boise?",
+            "answer": "We recommend a variety of drought-tolerant and low-maintenance plants that thrive in Boise's climate, such as lavender, Russian sage, and ornamental grasses. We can help you select the perfect plants for your landscape."
+          },
+          {
+            "question": "Do you offer 3D landscape design renderings?",
+            "answer": "Yes, we offer 3D landscape design renderings to help you visualize your project before installation. This allows you to make informed decisions and ensure you're happy with the final result."
+          }
+        ]
+      },
+      {
+        "slug": "hardscaping",
+        "name": "Hardscaping",
+        "shortDescription": "Enhance your outdoor living space with our custom hardscaping solutions.",
+        "description": "A & A Landscaping specializes in creating beautiful and functional hardscapes that enhance your outdoor living space. From patios and walkways to retaining walls and fire pits, we can transform your yard into a stunning and inviting retreat. We understand the importance of using high-quality materials and expert craftsmanship to ensure your hardscape is both durable and aesthetically pleasing.\n\nOur hardscaping services include: Patios, Walkways, Retaining Walls, Fire Pits, Outdoor Kitchens, Water Features. We work with a variety of materials, including pavers, stone, and concrete, to create custom designs that complement your home and landscape. We take into account factors such as drainage, grading, and soil stability to ensure your hardscape is built to last.\n\nWhether you're looking to create a relaxing outdoor entertaining space or add structural support to your landscape, A & A Landscaping can help. Contact us today to discuss your hardscaping project.",
+        "process": [
+          "Step 1: Initial consultation to discuss your vision and needs.",
+          "Step 2: Site preparation and excavation.",
+          "Step 3: Installation of hardscaping materials.",
+          "Step 4: Finishing touches and cleanup."
+        ],
+        "benefits": [
+          "Enhanced outdoor living space",
+          "Increased property value",
+          "Improved functionality",
+          "Durable and long-lasting"
+        ],
+        "faq": [
+          {
+            "question": "What types of pavers do you recommend for patios?",
+            "answer": "We recommend using durable and weather-resistant pavers that can withstand Boise's climate. Popular options include concrete pavers, brick pavers, and natural stone pavers."
+          },
+          {
+            "question": "How much does a retaining wall cost?",
+            "answer": "The cost of a retaining wall varies depending on the size, materials, and complexity of the project. We offer free estimates and can provide you with a detailed quote based on your specific needs."
+          },
+          {
+            "question": "Do you offer warranties on your hardscaping projects?",
+            "answer": "Yes, we offer warranties on our hardscaping projects to ensure your peace of mind. We stand behind our workmanship and materials."
+          }
+        ]
+      },
+      {
+        "slug": "irrigation-systems",
+        "name": "Irrigation Systems",
+        "shortDescription": "Keep your landscape healthy and hydrated with our efficient irrigation solutions.",
+        "description": "A & A Landscaping specializes in designing, installing, and maintaining efficient irrigation systems for Boise homes and businesses. We understand the importance of proper irrigation for maintaining a healthy and vibrant landscape, especially in Boise's dry climate. Our team is experienced in working with a variety of irrigation systems, including sprinkler systems, drip irrigation, and smart controllers.\n\nOur irrigation services include: System design, Installation, Repair, Maintenance, Winterization. We use high-quality components and expert craftsmanship to ensure your irrigation system is both reliable and efficient. We take into account factors such as water pressure, soil type, and plant needs to create a customized irrigation plan that meets your specific requirements.\n\nWhether you need a new irrigation system installed or your existing system repaired, A & A Landscaping can help. Contact us today to schedule a consultation and learn how we can help you conserve water and keep your landscape healthy.",
+        "process": [
+          "Step 1: Site assessment and water audit.",
+          "Step 2: Irrigation system design and planning.",
+          "Step 3: Installation of irrigation components.",
+          "Step 4: System testing and calibration."
+        ],
+        "benefits": [
+          "Water conservation",
+          "Healthy and vibrant landscape",
+          "Reduced water bills",
+          "Convenient and automated watering"
+        ],
+        "faq": [
+          {
+            "question": "What type of irrigation system is best for my landscape?",
+            "answer": "The best type of irrigation system depends on your landscape's specific needs and characteristics. We can help you determine the most efficient and effective system for your property."
+          },
+          {
+            "question": "How often should I water my lawn in Boise?",
+            "answer": "The frequency of watering depends on factors such as weather conditions, soil type, and grass type. We can help you develop a watering schedule that meets your lawn's specific needs."
+          },
+          {
+            "question": "Do you offer smart irrigation controllers?",
+            "answer": "Yes, we offer smart irrigation controllers that automatically adjust watering schedules based on weather conditions and plant needs. These controllers can help you conserve water and save money."
+          }
+        ]
+      },
+      {
+        "slug": "spring-fall-cleanup",
+        "name": "Spring & Fall Cleanup",
+        "shortDescription": "Prepare your landscape for the changing seasons with our thorough cleanup services.",
+        "description": "A & A Landscaping provides comprehensive spring and fall cleanup services to prepare your landscape for the changing seasons. Our cleanup services include removing leaves, debris, and dead plants, as well as pruning shrubs and trees. We understand the importance of preparing your landscape for the harsh Boise winters and the vibrant growing season in the spring.\n\nOur spring and fall cleanup services include: Leaf removal, Debris removal, Pruning, Mulching, Gutter cleaning. We use professional-grade equipment and experienced crews to ensure your landscape is thoroughly cleaned and prepared for the upcoming season. We also offer optional services such as fertilization and weed control to help your landscape thrive.\n\nLet A & A Landscaping take the hassle out of spring and fall cleanup so you can enjoy a beautiful and healthy landscape year-round. Contact us today to schedule your cleanup service.",
+        "process": [
+          "Step 1: Removal of leaves and debris.",
+          "Step 2: Pruning of shrubs and trees.",
+          "Step 3: Mulching of garden beds.",
+          "Step 4: Gutter cleaning (optional)."
+        ],
+        "benefits": [
+          "Healthy and vibrant landscape",
+          "Reduced risk of disease and pests",
+          "Improved curb appeal",
+          "Protection from winter damage"
+        ],
+        "faq": [
+          {
+            "question": "When is the best time to schedule spring cleanup?",
+            "answer": "The best time to schedule spring cleanup is in early spring, after the snow has melted and the ground has thawed. This allows us to remove winter debris and prepare your landscape for the growing season."
+          },
+          {
+            "question": "When is the best time to schedule fall cleanup?",
+            "answer": "The best time to schedule fall cleanup is in late fall, after the leaves have fallen and before the first snowfall. This helps to protect your landscape from winter damage and prepare it for the dormant season."
+          },
+          {
+            "question": "Do you offer gutter cleaning services?",
+            "answer": "Yes, we offer gutter cleaning services as part of our spring and fall cleanup packages. Clean gutters are essential for preventing water damage to your home."
+          }
+        ]
+      },
+      {
+        "slug": "tree-shrub-care",
+        "name": "Tree & Shrub Care",
+        "shortDescription": "Maintain the health and beauty of your trees and shrubs with our expert care services.",
+        "description": "A & A Landscaping provides comprehensive tree and shrub care services to keep your landscape healthy and beautiful. Our team of certified arborists and experienced technicians is dedicated to providing the highest quality care for your trees and shrubs. We use proven techniques and high-quality products to ensure your trees and shrubs thrive in Boise's climate.\n\nOur tree and shrub care services include: Pruning, Fertilization, Disease control, Pest control, Tree removal. We understand the specific needs of different tree and shrub species in Boise, and we tailor our services to meet those needs. We also offer emergency tree care services for storm damage and other unexpected events.\n\nWhether you need routine maintenance or specialized care, A & A Landscaping can help. Contact us today to schedule a consultation and learn how we can help you protect your investment in your landscape.",
+        "process": [
+          "Step 1: Tree and shrub assessment.",
+          "Step 2: Development of a customized care plan.",
+          "Step 3: Pruning, fertilization, and pest/disease control.",
+          "Step 4: Ongoing monitoring and adjustments as needed."
+        ],
+        "benefits": [
+          "Healthy and vibrant trees and shrubs",
+          "Increased property value",
+          "Reduced risk of disease and pests",
+          "Enhanced curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "How often should I prune my trees and shrubs?",
+            "answer": "The frequency of pruning depends on the species and age of your trees and shrubs. We can help you develop a pruning schedule that meets the specific needs of your landscape."
+          },
+          {
+            "question": "What are the signs of tree disease?",
+            "answer": "Signs of tree disease can include discolored leaves, wilting, stunted growth, and unusual growths on the trunk or branches. If you suspect your tree may be diseased, contact us for a professional assessment."
+          },
+          {
+            "question": "Do you offer tree removal services?",
+            "answer": "Yes, we offer tree removal services for trees that are dead, diseased, or pose a safety hazard. Our team is experienced in safely and efficiently removing trees of all sizes."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Boise",
+        "slug": "boise-id",
+        "state": "ID",
+        "content": "A & A Landscaping & Maintenance is proud to serve the vibrant city of Boise, Idaho. We understand the unique landscaping needs of Boise residents and businesses, from drought-resistant xeriscaping to lush green lawns that thrive in our climate. Our team is committed to providing top-quality landscaping services, including lawn care, garden design, tree trimming, and snow removal, ensuring your outdoor spaces are beautiful and functional year-round.\n\nWe're familiar with the different neighborhoods of Boise, from the historic North End to the growing areas in the south and west. Whether you need routine maintenance or a complete landscape overhaul, A & A Landscaping & Maintenance is your trusted partner for creating and maintaining stunning outdoor environments in Boise.",
+        "localContext": "Boise, the capital of Idaho, is known for its outdoor recreation, thriving arts scene, and growing technology industry. The city's unique blend of urban amenities and natural beauty makes it a desirable place to live and work.",
+        "nearbyAreas": [
+          "Meridian",
+          "Nampa",
+          "Eagle"
+        ]
+      },
+      {
+        "city": "Meridian",
+        "slug": "meridian-id",
+        "state": "ID",
+        "content": "A & A Landscaping & Maintenance extends our expert landscaping services to the rapidly growing city of Meridian, Idaho. As one of the largest cities in the state, Meridian boasts a diverse range of homes and businesses, each with unique landscaping requirements. Our team is equipped to handle everything from designing and installing new landscapes to providing ongoing maintenance that keeps your property looking its best.\n\nWe understand the importance of creating outdoor spaces that are both beautiful and functional. Whether you're looking to create a relaxing backyard oasis or enhance your business's curb appeal, A & A Landscaping & Maintenance is dedicated to providing exceptional service and exceeding your expectations in Meridian.",
+        "localContext": "Meridian is a thriving city known for its family-friendly atmosphere, excellent schools, and numerous parks and recreational opportunities. Its central location within the Treasure Valley makes it a convenient place to live and work.",
+        "nearbyAreas": [
+          "Boise",
+          "Nampa",
+          "Eagle"
+        ]
+      },
+      {
+        "city": "Nampa",
+        "slug": "nampa-id",
+        "state": "ID",
+        "content": "A & A Landscaping & Maintenance is pleased to offer our comprehensive landscaping services to the residents and businesses of Nampa, Idaho. As the second-largest city in Idaho, Nampa has a diverse range of properties, and we are committed to providing customized landscaping solutions to meet your specific needs. From lawn care and irrigation to tree services and seasonal cleanups, we have you covered.\n\nWe pride ourselves on our attention to detail and our commitment to customer satisfaction. Whether you're looking to enhance your home's curb appeal or create a welcoming outdoor space for your business, A & A Landscaping & Maintenance is your trusted partner in Nampa.",
+        "localContext": "Nampa is a growing city known for its agricultural heritage, affordable housing, and close-knit community. It offers a mix of urban amenities and small-town charm.",
+        "nearbyAreas": [
+          "Caldwell",
+          "Meridian",
+          "Boise"
+        ]
+      },
+      {
+        "city": "Eagle",
+        "slug": "eagle-id",
+        "state": "ID",
+        "content": "A & A Landscaping & Maintenance proudly serves the beautiful city of Eagle, Idaho, providing top-notch landscaping services to homeowners and businesses alike. Eagle is known for its upscale homes and well-manicured landscapes, and we are dedicated to helping you maintain and enhance your property's beauty. We offer a full range of services, including lawn care, garden design, tree and shrub care, and seasonal maintenance.\n\nWe understand the unique needs of Eagle residents, and we are committed to providing personalized service and exceptional results. Whether you're looking to create a stunning outdoor living space or simply maintain your existing landscape, A & A Landscaping & Maintenance is your trusted partner in Eagle.",
+        "localContext": "Eagle is an affluent city known for its scenic beauty, equestrian properties, and upscale residential areas. It offers a relaxed lifestyle with easy access to outdoor recreation.",
+        "nearbyAreas": [
+          "Star",
+          "Meridian",
+          "Boise"
+        ]
+      },
+      {
+        "city": "Kuna",
+        "slug": "kuna-id",
+        "state": "ID",
+        "content": "A & A Landscaping & Maintenance is happy to provide landscaping services to the growing community of Kuna, Idaho. We understand the unique challenges and opportunities that come with landscaping in a developing area, and we are committed to helping you create and maintain beautiful outdoor spaces. Our services include lawn care, irrigation, planting, and hardscaping.\n\nWhether you're a new homeowner or a long-time resident, A & A Landscaping & Maintenance is here to help you achieve your landscaping goals. We pride ourselves on our reliability, affordability, and dedication to customer satisfaction in Kuna.",
+        "localContext": "Kuna is a rapidly growing city known for its affordable housing, family-friendly atmosphere, and proximity to outdoor recreation. It offers a small-town feel with easy access to the amenities of nearby Boise.",
+        "nearbyAreas": [
+          "Meridian",
+          "Nampa",
+          "Melba"
+        ]
+      },
+      {
+        "city": "Caldwell",
+        "slug": "caldwell-id",
+        "state": "ID",
+        "content": "A & A Landscaping & Maintenance is dedicated to offering professional landscaping services to the city of Caldwell, Idaho. With a focus on both residential and commercial properties, we provide a wide array of services including lawn maintenance, landscape design, and seasonal clean-up. We understand the specific needs of Caldwell's climate and soil conditions.\n\nOur commitment to quality and customer satisfaction makes us a reliable choice for all your landscaping needs in Caldwell. Whether you're looking to enhance your curb appeal or create a relaxing outdoor space, A & A Landscaping & Maintenance is the team to call.",
+        "localContext": "Caldwell is a city with a rich agricultural history and a growing wine industry. It's known for its community events and close proximity to the Snake River.",
+        "nearbyAreas": [
+          "Nampa",
+          "Middleton",
+          "Parma"
+        ]
+      },
+      {
+        "city": "Star",
+        "slug": "star-id",
+        "state": "ID",
+        "content": "A & A Landscaping & Maintenance is pleased to serve the residents and businesses of Star, Idaho. We offer a full suite of landscaping services, including lawn care, irrigation installation and repair, tree and shrub care, and landscape design. We understand the importance of creating beautiful and functional outdoor spaces that complement the unique character of Star.\n\nWe are committed to providing exceptional service and exceeding your expectations. Whether you're looking to enhance your home's curb appeal or create a welcoming outdoor space for your business, A & A Landscaping & Maintenance is your trusted partner in Star.",
+        "localContext": "Star is a charming city known for its rural atmosphere, scenic views, and strong sense of community. It offers a peaceful lifestyle with easy access to the amenities of nearby cities.",
+        "nearbyAreas": [
+          "Eagle",
+          "Middleton",
+          "Emmett"
+        ]
+      },
+      {
+        "city": "Middleton",
+        "slug": "middleton-id",
+        "state": "ID",
+        "content": "A & A Landscaping & Maintenance extends its expert landscaping services to the town of Middleton, Idaho. We understand the importance of maintaining a beautiful and healthy landscape and are committed to providing top-quality service to our customers. Our services include lawn care, tree trimming, garden maintenance, and seasonal cleanups.\n\nWe pride ourselves on our attention to detail and our commitment to customer satisfaction. Whether you're looking to enhance your home's curb appeal or create a relaxing outdoor space, A & A Landscaping & Maintenance is your trusted partner in Middleton.",
+        "localContext": "Middleton is a small town known for its friendly community, agricultural roots, and scenic views of the surrounding mountains. It offers a peaceful lifestyle with easy access to outdoor recreation.",
+        "nearbyAreas": [
+          "Caldwell",
+          "Star",
+          "Emmett"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Lawn Care",
+        "text": "A & A Landscaping has been taking care of my lawn for two years now, and I couldn't be happier. My lawn is the envy of the neighborhood! They are reliable, professional, and always do a great job. Highly recommend!",
+        "date": "2024-10-26"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Hardscaping",
+        "text": "A & A Landscaping built a beautiful patio in my backyard this summer. They were very helpful in the design process and the finished product is exactly what I wanted. There was a slight delay due to weather, but they communicated well throughout the project.",
+        "date": "2024-09-15"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 5,
+        "service": "Landscape Design",
+        "text": "I hired A & A Landscaping to redesign my front yard, and I am thrilled with the results. They created a beautiful and functional landscape that has completely transformed the look of my home. The team was professional, creative, and easy to work with.",
+        "date": "2024-08-03"
+      },
+      {
+        "name": "Michael S.",
+        "rating": 5,
+        "service": "Irrigation Systems",
+        "text": "A & A Landscaping installed a new irrigation system in my yard, and it has made a huge difference. My lawn is healthier and greener than ever before, and I'm saving water too. The installation was quick and efficient, and the team was very knowledgeable.",
+        "date": "2024-07-20"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 4,
+        "service": "Spring Cleanup",
+        "text": "A & A Landscaping did a great job with my spring cleanup this year. They removed all the leaves and debris from my yard, and my garden beds look fantastic. They were on time, efficient, and reasonably priced. I will definitely use them again next year.",
+        "date": "2024-04-10"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Tree & Shrub Care",
+        "text": "Our mature trees were looking rough. A & A Landscaping came out and pruned them perfectly. They now look healthier and the yard looks so much better. Great service!",
+        "date": "2024-06-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "A & A Landscaping | Boise, ID",
+        "description": "Boise's premier landscaping company. Lawn care, landscape design, hardscaping & more. Free quotes!"
+      },
+      "about": {
+        "title": "About A & A Landscaping",
+        "description": "Learn about A & A Landscaping's commitment to quality landscaping in Boise, Idaho. Local experts you can trust."
+      },
+      "services": {
+        "title": "A & A Landscaping Services",
+        "description": "Full-service landscaping solutions in Boise. Lawn care, hardscaping, irrigation & more. Get a free estimate!"
+      },
+      "contact": {
+        "title": "Contact A & A Landscaping",
+        "description": "Contact A & A Landscaping for a free quote. Serving Boise and surrounding areas."
+      },
+      "reviews": {
+        "title": "A & A Landscaping Reviews",
+        "description": "Read reviews from our satisfied customers in Boise, ID. See why A & A Landscaping is the trusted choice."
+      },
+      "service-areas": {
+        "title": "A & A Landscaping Service Areas",
+        "description": "A & A Landscaping provides expert landscaping services to Boise, Idaho, and surrounding communities."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "lawn-care": "/images/service-lawn-care.webp",
+      "landscape-design": "/images/service-landscape-design.webp",
+      "hardscaping": "/images/service-hardscaping.webp",
+      "irrigation-systems": "/images/service-irrigation-systems.webp",
+      "spring-fall-cleanup": "/images/service-spring-fall-cleanup.webp",
+      "tree-shrub-care": "/images/service-tree-shrub-care.webp"
+    },
+    "servicesResponsive": {
+      "lawn-care": {
+        "src": "/images/service-lawn-care.webp",
+        "srcset": "/images/service-lawn-care-400w.webp 400w, /images/service-lawn-care-800w.webp 800w, /images/service-lawn-care-1200w.webp 1200w, /images/service-lawn-care.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "landscape-design": {
+        "src": "/images/service-landscape-design.webp",
+        "srcset": "/images/service-landscape-design-400w.webp 400w, /images/service-landscape-design-800w.webp 800w, /images/service-landscape-design-1200w.webp 1200w, /images/service-landscape-design.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hardscaping": {
+        "src": "/images/service-hardscaping.webp",
+        "srcset": "/images/service-hardscaping-400w.webp 400w, /images/service-hardscaping-800w.webp 800w, /images/service-hardscaping-1200w.webp 1200w, /images/service-hardscaping.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "irrigation-systems": {
+        "src": "/images/service-irrigation-systems.webp",
+        "srcset": "/images/service-irrigation-systems-400w.webp 400w, /images/service-irrigation-systems-800w.webp 800w, /images/service-irrigation-systems-1200w.webp 1200w, /images/service-irrigation-systems.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "spring-fall-cleanup": {
+        "src": "/images/service-spring-fall-cleanup.webp",
+        "srcset": "/images/service-spring-fall-cleanup-400w.webp 400w, /images/service-spring-fall-cleanup-800w.webp 800w, /images/service-spring-fall-cleanup-1200w.webp 1200w, /images/service-spring-fall-cleanup.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tree-shrub-care": {
+        "src": "/images/service-tree-shrub-care.webp",
+        "srcset": "/images/service-tree-shrub-care-400w.webp 400w, /images/service-tree-shrub-care-800w.webp 800w, /images/service-tree-shrub-care-1200w.webp 1200w, /images/service-tree-shrub-care.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
